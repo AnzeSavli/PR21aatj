@@ -1,6 +1,6 @@
-#Podatkovno rudarjenje - Seminarska naloga
+# Podatkovno rudarjenje - Seminarska naloga
 
-##Skupina:
+## Skupina:
 
 Anže Šavli
 Anže Javornik
@@ -8,8 +8,8 @@ Timotej Rozina
 Jan Mrak
 ##Opis naloge:
 
-###Tema: Tehnični pregledi
+### Tema: Tehnični pregledi
 
-###Cilji:
+### Cilji:
 
-###Podatki:
+### Podatki:
