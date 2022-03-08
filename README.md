@@ -2,13 +2,16 @@
 
 ## Skupina:
 
-Anže Šavli
-Anže Javornik
-Timotej Rozina
-Jan Mrak
-##Opis naloge:
+- Anže Šavli
+- Anže Javornik
+- Timotej Rozina
+- Jan Mrak
 
-### Tema: Tehnični pregledi
+## Opis naloge:
+
+### Tema: 
+
+Tehnični pregledi
 
 ### Cilji:
 
