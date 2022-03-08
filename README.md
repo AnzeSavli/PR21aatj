@@ -9,10 +9,10 @@
 
 ## Opis naloge:
 
-### Tema: 
+### Tema 
 
 Tehnični pregledi
 
-### Cilji:
+### Cilji
 
-### Podatki:
+### Podatki
