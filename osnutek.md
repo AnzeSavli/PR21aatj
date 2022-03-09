@@ -2,10 +2,10 @@
 
 ## Skupina:
 
-- Anže Šavli
-- Anže Javornik
-- Timotej Rozina
-- Jan Mrak
+- Anže Šavli (63200281)
+- Anže Javornik (63200115)
+- Timotej Rozina (63200254)
+- Jan Mrak (63200195)
 
 ## Opis naloge:
 
