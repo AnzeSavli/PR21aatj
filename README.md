@@ -51,9 +51,12 @@ Ugotovili smo, da se čez leta delež uspešnih pregledov dviguje (z odstopanjem
 
 Nato smo naredili razdelitev tehničnih pregledov po znamkah avtomobilov po letih, kar nam pove delež vozil določene znamke na slovenskih cestah vsako leto.
 ![Razdelitev pregledov po znamkah avtomobilov v letu 2021](images/znamke.png)
+Ugotovili smo je največ vozil znamk Volkswagon, Renault, Citroen in Opel. Te štirje proizvajalci vozil predstavljajo kar več kot pol vseh tehničnih pregledov (51.2%).
 
+Narisali smo si tudi število vozil, glede na to kakšne vrste so.
+![Porazdelitev po vrsti vozila leta 2021](images/vozila.png)
+Pričakovano je daleč največ osebnih avtomobilov (približno 2/3), za tem sledijo tovorna vozila, traktorji in nato ostala vozila. 
 
-
-### Ugotovitve
-
-
+Zanimalo nas je kolikšen delež vozil se uvozi iz drugih držav. To smo ugotovili, če sta bili vrednosti DATUM_PRVE_REGISTRACIJE_SLO in DATUM_PRVE_REGISTRACIJE različni.
+![Porazdelitev po vrsti vozila leta 2021](images/uvozeni.png)
+Zanimivo je, da je graf praktično linearna funkcija, kar pomeni da se vse več avtomobilov uvaža iz drugih držav. Leta 2017 je bilo 20% vozil uvoženih, kar se je povečalo že na skoraj 25% leta 2021.
