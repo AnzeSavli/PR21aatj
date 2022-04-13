@@ -42,15 +42,15 @@ Po vseh težavah smo končno lahko prebrali datoteke in jih shranili v imenik, k
 ### Analiza podatkov
 
 Za začetno točko smo naredili graf števila tehničnih pregledov po letih.
-[Pregled po letih](images/preglediPoLetih.png)
+![Pregled po letih](images/preglediPoLetih.png)
 Ugotovili smo, da se število tehničnih pregledov in posledično registriranih vozil v Sloveniji iz leta v leto dviguje. Edino odstopanje je leto 2020, kar sovpada z epidemijo in je to mogoče razlog zakaj ni več tehničnih pregledov kot prejšnja leta.
 
 Pogledali smo si delež uspešno opravljenih tehničnih pregledov na leto.
-[Pregled po letih](images/uspesnostPregledov.png)
+![Pregled po letih](images/uspesnostPregledov.png)
 Ugotovili smo, da se čez leta delež uspešnih pregledov dviguje (z odstopanjem leta 2020), ampak so še vedno ne razlikujejo zelo (93.5% - 94%).
 
 Nato smo naredili razdelitev tehničnih pregledov po znamkah avtomobilov po letih, kar nam pove delež vozil določene znamke na slovenskih cestah vsako leto.
-[Razdelitev pregledov po znamkah avtomobilov v letu 2021](images/znamke.png)
+![Razdelitev pregledov po znamkah avtomobilov v letu 2021](images/znamke.png)
 
 
 
