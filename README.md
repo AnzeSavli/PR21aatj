@@ -1,4 +1,4 @@
-# Podatkovno rudarjenje - Seminarska naloga
+# Analiza rezultatov tehničnih pregledov motornih vozil
 
 ## Skupina:
 
